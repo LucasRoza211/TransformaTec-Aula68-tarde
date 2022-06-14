@@ -24,7 +24,7 @@ const Home = () => {
         fontSize: '18px',
         borderRadius: '5px',
         border: '1px solid cadetblue',
-        color:'dimgray',
+        color:'#000000',
     }
 
     const tiles = [

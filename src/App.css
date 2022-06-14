@@ -7,7 +7,7 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: darkseagreen;
+  background-color:#e0ffff ;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -28,7 +28,7 @@ body{
 
 .card.selected{
   border: transparent;
-  background-color: cadetblue;
+  background-color: #87cefa;
   border-radius: 5px;
 }
 
@@ -58,10 +58,10 @@ body{
 }
 
 .transaction-name, .transaction-value{
-  color: dimgray;
+  color: #000000;
   padding-left: 10%;
 }
 
 h4, h5{
-  color: dimgray;
+  color: #000000;
 }
